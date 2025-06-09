@@ -39,4 +39,10 @@ This project uses a **Binary Search algorithm**, a classic problem-solving strat
 ---
 
 ## 📁 Project Structure
+ai_number_guessing_game/
+├── app.py
+├── requirements.txt
+├── flask_session/ # Stores session data
+└── templates/
+└── index.html # Frontend UI
 
